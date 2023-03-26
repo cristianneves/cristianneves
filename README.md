@@ -1,6 +1,9 @@
 ### Olá! eu sou o Cristian Neves 👋
 Apaixonado por tecnologia e muito disciplinado.
 
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na IFPE, em busca de alguma oportunidade de estágio, tenho uma boa base em 
+lógica de programação, front-end com HTML,CSS e JS, e entrando focando agora no back-end com Python.
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/criszyzz/)
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-s-neves-56199a243/)
 
