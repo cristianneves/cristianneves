@@ -7,7 +7,7 @@ lógica de programação, front-end com HTML,CSS e JS, e entrando focando agora 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/criszyzz/)
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-s-neves-56199a243/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asperger-tech&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianneves&show_icons=true&theme=dracula)
 
 ###Tecnologias que mais uso
 
