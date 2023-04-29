@@ -2,7 +2,7 @@
 Apaixonado por tecnologia e muito disciplinado.
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na IFPE, em busca de alguma oportunidade de estágio, tenho uma boa base em 
-lógica de programação, front-end com HTML,CSS e JS, e entrando focando agora no back-end com Python.
+lógica de programação, front-end com HTML,CSS e JS, e entrando focando agora no back-end com Python e DJANGO.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/criszyzz/)
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-s-neves-56199a243/)
@@ -18,4 +18,5 @@ lógica de programação, front-end com HTML,CSS e JS, e entrando focando agora 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" align="center">
 </div>
