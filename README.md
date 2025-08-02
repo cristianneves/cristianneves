@@ -1,13 +1,13 @@
-Olá, eu sou [Seu Nome Completo] 👋
+Olá, meu nome é Cristian Santos Neves 👋
 Backend Developer em formação, apaixonado por tecnologia e soluções inovadoras.
 <p align="left">
-<a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+<a href="[https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/cristian-santos-neves-56199a243/)" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seu-email@exemplo.com" target="_blank">
+<a href="mailto:crislife987@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://wa.me/5500000000000" target="_blank">
+<a href="https://wa.me/5581998888903" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
