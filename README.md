@@ -1,18 +1,45 @@
-### Olá! eu sou o Cristian Neves 👋
-Apaixonado por tecnologia e muito disciplinado.
+Olá, eu sou [Seu Nome Completo] 👋
+Backend Developer em formação, apaixonado por tecnologia e soluções inovadoras.
+<p align="left">
+<a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:seu-email@exemplo.com" target="_blank">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/5500000000000" target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
 
-Atualmente estou cursando Engenharia de Software na Jala University, em busca de alguma oportunidade de estágio, tenho uma boa base de programação, atualmente focando no back-end com Python e DJANGO.
-Conhecimento intermediário em CyberSecurity, pentest e detecção de vulnerabilidades, apaixonado pela area.
+🚀 Sobre Mim
+Atualmente, estou no quinto período de Engenharia de Software Comercial na Jala University, uma instituição com um forte foco em aprendizado prático e projetos que simulam o ambiente real do mercado de trabalho.
 
-[![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-s-neves-56199a243/)
+Minha jornada acadêmica e projetos práticos me proporcionaram uma base sólida no desenvolvimento backend, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Tenho um grande interesse em cibersegurança, aplicando sempre as melhores práticas de segurança no desenvolvimento de software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianneves&show_icons=true&theme=dracula)
+Sou um profissional proativo, colaborativo e com excelente capacidade de adaptação para trabalhar em equipe, uma habilidade fortalecida pela minha experiência em diversos projetos reais desenvolvidos em grupo na universidade.
 
-###Tecnologias que mais uso
+Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software!
 
-<div style="display:inline_block"><br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" align="center">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" align="center">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" align="center">
-</div>
+💻 Habilidades Técnicas
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,python,spring,linux,mongodb,postgres,git,github,docker" />
+</a>
+</p>
+
+Backend
+Linguagens: Java, Python
+
+Frameworks: Spring Boot
+
+Bancos de Dados: MongoDB, PostgreSQL
+
+Sistemas Operacionais: Linux
+
+Outras Habilidades
+Controle de Versão: Git, GitHub
+
+Cibersegurança: Conhecimentos em práticas de desenvolvimento seguro.
+
+Metodologias Ágeis: Experiência em ambientes que utilizam Scrum e Kanban.
