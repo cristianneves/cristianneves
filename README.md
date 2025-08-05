@@ -12,7 +12,7 @@ Backend Developer em formação, apaixonado por tecnologia e soluções inovador
 </a>
 </p>
 
-🚀 Sobre Mim
+### 🚀 Sobre Mim
 Atualmente, estou no quinto período de Engenharia de Software Comercial na Jala University, uma instituição com um forte foco em aprendizado prático e projetos que simulam o ambiente real do mercado de trabalho.
 
 Minha jornada acadêmica e projetos práticos me proporcionaram uma base sólida no desenvolvimento backend, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Tenho um grande interesse em cibersegurança, aplicando sempre as melhores práticas de segurança no desenvolvimento de software.
@@ -21,7 +21,7 @@ Sou um profissional proativo, colaborativo e com excelente capacidade de adapta�
 
 Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software!
 
-💻 Habilidades Técnicas
+### 💻 Habilidades Técnicas
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,python,spring,linux,mongodb,postgres,git,github,docker" />
