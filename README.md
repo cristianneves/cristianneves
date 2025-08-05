@@ -28,8 +28,11 @@ Estou em busca da minha primeira oportunidade profissional na área de desenvolv
 </a>
 </p>
 
-####Linguagens: Java(principal), Python, Type/Javascript, HTML/CSS
-####Frameworks: Spring Boot, JUnit
-####Bancos de Dados: PostgreSQL, MySQL, MongoDB
-####Outros: Cybersecurity, Git, Metodologias Ágeis (Scrum/Kanban), API's Restful,
+Linguagens: Java(principal), Python, Type/Javascript, HTML/CSS;
+
+Frameworks: Spring Boot, JUnit;
+
+Bancos de Dados: PostgreSQL, MySQL, MongoDB;
+
+Outros: Cybersecurity, Git, Metodologias Ágeis (Scrum/Kanban), API's Restful,
 Docker, Insomnia/Postman, Figma, Linux, Windows, CI/CD, Q.A., JPA.
