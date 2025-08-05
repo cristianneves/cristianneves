@@ -28,18 +28,8 @@ Estou em busca da minha primeira oportunidade profissional na área de desenvolv
 </a>
 </p>
 
-Backend
-Linguagens: Java, Python
-
-Frameworks: Spring Boot
-
-Bancos de Dados: MongoDB, PostgreSQL
-
-Sistemas Operacionais: Linux
-
-Outras Habilidades
-Controle de Versão: Git, GitHub
-
-Cibersegurança: Conhecimentos em práticas de desenvolvimento seguro.
-
-Metodologias Ágeis: Experiência em ambientes que utilizam Scrum e Kanban.
+Linguagens: Java(principal), Python, Type/Javascript, HTML/CSS
+Frameworks: Spring Boot, JUnit
+Bancos de Dados: PostgreSQL, MySQL, MongoDB
+Outros: Cybersecurity, Git, Metodologias Ágeis (Scrum/Kanban), API's Restful,
+Docker, Insomnia/Postman, Figma, Linux, Windows, CI/CD, Q.A., JPA.
