@@ -9,13 +9,12 @@ Backend Developer em formação, apaixonado por tecnologia e soluções inovador
 </p>
 
 ### 🚀 Sobre Mim
-Atualmente, estou no quinto período de Engenharia de Software Comercial na Jala University, uma instituição com um forte foco em aprendizado prático e projetos que simulam o ambiente real do mercado de trabalho.
-
-Minha jornada acadêmica e projetos práticos me proporcionaram uma base sólida no desenvolvimento backend, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias. Tenho um grande interesse em cibersegurança, aplicando sempre as melhores práticas de segurança no desenvolvimento de software.
-
-Sou um profissional proativo, colaborativo e com excelente capacidade de adaptação para trabalhar em equipe, uma habilidade fortalecida pela minha experiência em diversos projetos reais desenvolvidos em grupo na universidade.
-
-Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software!
+Desenvolvedor de Software Java com experiência focada no ecossistema Spring (Spring Boot, Spring MVC, Spring Data). Com
+mais de 2 anos de atuação, participei ativamente do ciclo de vida de desenvolvimento de software, desde a concepção até a
+entrega, com forte ênfase na qualidade do código. Tenho prática consolidada em revisões de código construtivas e na
+implementação dos princípios SOLID e Clean Code para desenvolver soluções eficientes e de fácil manutenção. Utilizo Git
+diariamente para controle de versão e colaboração em equipe. Possuo conhecimento em ferramentas de análise estática como
+SonarQube e PMD para garantir a conformidade com os padrões de qualidade além de utilizar o GitlabCI para pipelines
 
 ### 💻 Habilidades Técnicas
 <p align="center">
