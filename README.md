@@ -1,5 +1,4 @@
-Olá, meu nome é Cristian Santos Neves 👋
-Backend Developer em formação, apaixonado por tecnologia e soluções inovadoras.
+Olá, meu nome é Cristian Santos Neves
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-santos-neves-56199a243/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
