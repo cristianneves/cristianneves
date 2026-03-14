@@ -10,7 +10,7 @@ Com mais de 3 anos de experiência no ecossistema Java, meu foco é construir si
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cristianneves&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cristianneves&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianneves&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
